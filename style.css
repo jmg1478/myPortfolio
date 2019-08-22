@@ -1,0 +1,14 @@
+body {
+    padding-top: 5rem;            
+    background-image: url("C:/Users/johna/Desktop/myPortfolio/assets/pics/woods.jpg");    
+    background-repeat: no-repeat;
+    background-size: 100% 160%;
+}
+
+
+.jumbotron {
+    background: none;
+    width: 1000px;
+    /* opacity: 0.35; */
+  
+}
